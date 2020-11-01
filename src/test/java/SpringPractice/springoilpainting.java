@@ -1,3 +1,7 @@
+package SpringPractice;
+
+import SpringPractice.springinterfacepainting;
+
 public class springoilpainting implements springinterfacepainting
 {
 

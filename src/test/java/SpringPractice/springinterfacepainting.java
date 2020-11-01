@@ -1,3 +1,5 @@
+package SpringPractice;
+
 public interface springinterfacepainting {
 
 

@@ -1,3 +1,6 @@
+package SpringPractice;
+
+import SpringPractice.springacrylicpainting;
 import org.junit.Test;
 
 public class springcanvas {
